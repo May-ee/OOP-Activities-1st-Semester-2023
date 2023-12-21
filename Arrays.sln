@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.21005.1
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays", "Arrays\Arrays.csproj", "{967ADBAF-84B6-49A7-9EAB-A79B0D5DAC42}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP ACTIVITIES", "Arrays\OOP ACTIVITIES.csproj", "{967ADBAF-84B6-49A7-9EAB-A79B0D5DAC42}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -12,13 +12,13 @@ using System.Xml.Linq;
 
 namespace Arrays
 {
-    public partial class Form1 : Form
+    public partial class Arrayfrm : Form
     {
         //Encapsulation Activity: refer to Details Class
         private Details details = new Details();
 
 
-        public Form1()
+        public Arrayfrm()
         {
             InitializeComponent();
             InitializeDataGridView();
