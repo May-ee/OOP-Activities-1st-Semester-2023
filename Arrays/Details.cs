@@ -21,7 +21,7 @@ namespace Arrays
             Age = new string[] { };
         }
 
-        public string[] getF() //twice refered to Form1 UpdateDataGridView() Method
+        public string[] getF()  //twice refered to Form1 UpdateDataGridView() Method
         {
             return (string[])FName.Clone();
          
